@@ -9,7 +9,7 @@ on:
   push:
     branches: [ "main" ]
     paths: 
-    - SQLCourseDatabase\KursusDatabase
+    - SQLCourseDatabase/KursusDatabase
   pull_request:
     branches: [ "main" ]
 
