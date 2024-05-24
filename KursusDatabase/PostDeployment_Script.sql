@@ -71,7 +71,7 @@ INSERT INTO [Kursus].[LegalEntity] values
 		  ,('5566F315-57BD-4D77-AC50-22B6CEFFA6AF' ,'Tine'         ,'Jensen'                         ,'1982-02-24','240282-1214','CPR','DK','2000-01-05','2001-06-07')		   
 		  ,('5566F315-57BD-4D77-AC50-22B6CEFFA6AF' ,'Tilde'        ,'Jensen'                         ,'1985-02-24','240282-1214','CPR','DK','2001-06-08','2004-12-10')		   
 		  ,('5566F315-57BD-4D77-AC50-22B6CEFFA6AF' ,'Marie-Tilde'  ,'Eskildsen'                      ,'1985-02-24','240282-1214','CPR','DK','2004-12-11','2006-06-12')		   
-		  ,('5566F315-57BD-4D77-AC50-22B6CEFFA6AF' ,'Marie-Louise' ,'Von. Eskildsen'                 ,'1985-02-24','240282-1214','CPR','DK','2006-06-13','2006-07-13')		   
+		  ,('5566F315-57BD-4D77-AC50-22B6CEFFA6AF' ,'Marie-Liuise' ,'Von. Eskildsen'                 ,'1985-02-24','240282-1214','CPR','DK','2006-06-13','2006-07-13')		   
 		  ,('5566F315-57BD-4D77-AC50-22B6CEFFA6AF' ,'Maria-Louise Abildgaard' ,'Eskildsen'           ,'1985-02-24','240282-1214','CPR','DK','2006-07-14','2006-08-12')		   
 		  ,('5566F315-57BD-4D77-AC50-22B6CEFFA6AF' ,'Maria-Louise Abildgaard' ,'Nørgaard-Eskildsen'  ,'1985-02-24','240282-1214','CPR','DK','2006-08-13','2020-05-31')		   
 		  ,('5566F315-57BD-4D77-AC50-22B6CEFFA6AF' ,'Mariluu'      ,'Anderson'                       ,'1985-02-24','433-43-373565','SSN','US','2020-06-01','9999-12-31')	
