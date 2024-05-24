@@ -1,0 +1,35 @@
+﻿** Highlights
+     Tables that will be recreated with data migrated
+       None
+     Clustered indexes that will be dropped
+       None
+     Clustered indexes that will be created
+       None
+     Possible data issues
+       None
+
+** User actions
+     Create
+       [Kursus] (Schema)
+       [KursusViews] (Schema)
+       [Kursus].[Planets] (Table)
+       [Kursus].[Child] (Table)
+       [Kursus].[Mother] (Table)
+       [Kursus].[LegalEntity] (Table)
+       [Kursus].[Account] (Table)
+       [Kursus].[RelationLegalEntityAccount] (Table)
+       [Kursus].[AccountTransaction] (Table)
+       [Kursus].[Account2] (Table)
+       Default Constraint: unnamed constraint on [Kursus].[Planets] (Default Constraint)
+       Default Constraint: unnamed constraint on [Kursus].[Planets] (Default Constraint)
+       Default Constraint: unnamed constraint on [Kursus].[Planets] (Default Constraint)
+       Default Constraint: unnamed constraint on [Kursus].[Planets] (Default Constraint)
+       Default Constraint: unnamed constraint on [Kursus].[Planets] (Default Constraint)
+       Default Constraint: unnamed constraint on [Kursus].[Planets] (Default Constraint)
+       Default Constraint: unnamed constraint on [Kursus].[Planets] (Default Constraint)
+       Default Constraint: unnamed constraint on [Kursus].[Planets] (Default Constraint)
+       Default Constraint: unnamed constraint on [Kursus].[Planets] (Default Constraint)
+       [Kursus].[DF_Account2_InsertTimestamp] (Default Constraint)
+       [KursusViews].[Planeter] (View)
+
+** Supporting actions

@@ -1,0 +1,10 @@
+C:\Users\BigBox\source\repos\KursusDatabase\KursusDatabase\bin\Debug\KursusDatabase.dacpac
+C:\Users\BigBox\source\repos\KursusDatabase\KursusDatabase\bin\Debug\KursusDatabase.dll
+C:\Users\BigBox\source\repos\KursusDatabase\KursusDatabase\bin\Debug\KursusDatabase.pdb
+C:\Users\BigBox\source\repos\KursusDatabase\KursusDatabase\obj\Debug\KursusDatabase.sqlproj.AssemblyReference.cache
+C:\Users\BigBox\source\repos\KursusDatabase\KursusDatabase\obj\Debug\KursusDatabase.dll
+C:\Users\BigBox\source\repos\KursusDatabase\KursusDatabase\obj\Debug\KursusDatabase.pdb
+C:\Users\BigBox\source\repos\KursusDatabase\KursusDatabase\obj\Debug\Model.xml
+C:\Users\BigBox\source\repos\KursusDatabase\KursusDatabase\obj\Debug\refactor.xml
+C:\Users\BigBox\source\repos\KursusDatabase\KursusDatabase\obj\Debug\postdeploy.sql
+C:\Users\BigBox\source\repos\KursusDatabase\KursusDatabase\obj\Debug\predeploy.sql
